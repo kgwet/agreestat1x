@@ -1,10 +1,23 @@
 ---
-title: "agreestat1x"
+title: "Kilem L. Gwet, PhD"
+image: media/headshot1.jpg
+toc: true
+about: 
+  template: trestles
+  image-shape: round
+  image-width: 12em
+  links:
+    - text: LinkedIn
+      href: https://www.linkedin.com/in/kilem-li-gwet-71022480/
+    - text: GitHub
+      href: https://github.com/kgwet
+    - text: Email
+      href: mailto:gwet@agreestat.com
 ---
 
-This is a Quarto website.
+Hi! My name is Kilem Li Gwet. I am a Mathematical Statistician, Research Statistician in Quantitative Psychometrics, and Quantitative Management Consultant $\sqrt{x}=26$.
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+To learn `r 4*3+2` more about Quarto websites visit <https://quarto.org/docs/websites>.
 
 ```{r}
 1 + 3^2
